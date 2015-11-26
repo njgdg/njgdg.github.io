@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: nanjinggdg@gmail.com
 description: "Android note | long ~ ~ ~ ~ ~ description."
 keyword: "Android note, android, note"
-url: "http://androidnote.njgdg.org"              # your host, for absolute URL
+url: ""     #http://androidnote.njgdg.org         # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
