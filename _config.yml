@@ -1,23 +1,90 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Android Note
+SEOTitle: Android Note
+header-img: img/home-bg.jpg
 email: nanjinggdg@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  njgdg
+description: "Android note | long ~ ~ ~ ~ ~ description."
+keyword: "Android note, android, note"
+url: "http://androidnote.njgdg.org"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
-highlighter: pygments
+
+
+# SNS settings
+RSS: true
+# weibo_username:     huxpro
+# zhihu_username:     huxpro
+github_username:    njgdg
+#twitter_username:  huxpro
+# facebook_username:  huxpro
+
+
 
 # Build settings
+highlighter: pygments
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+
+# Disqus settings
+#disqus_username: _your_disqus_short_name_
+
+# Duoshuo settings
+duoshuo_username: androidnote
+# Share component is depend on Comment so we can NOT use share only.
+duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+
+
+
+
+# Analytics settings
+# Baidu Analytics
+# ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# Google Analytics
+ga_track_id: 'UA-70705676-1'            # Format: UA-xxxxxx-xx
+ga_domain: androidnote.njgdg.org
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "南京谷歌开发者社区（NanJing GDG），是一个非盈利的、自由独立的纯IT技术社区，由一群热爱分享的的开发者自发组建，线上线下交流和分享Google技术（涵盖包括Android、Chrome、GCE 等），开放技术、开源技术是社区平时最主要的活动，社区的活动经费由谷歌公司赞助。"
+sidebar-avatar: /img/avatar-njgdg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Friends
+friends: [
+    {
+        title: "南京GDG官网",
+        href: "http://www.njgdg.org"
+    },{
+        title: "南京GDG视频中心",
+        href: "http://v.qq.com/vplus/d5750056b4bf0b516f7512c83666adff"
+    },{
+        title: "China GDG官网",
+        href: "http://chinagdg.org"
+    },{
+        title: "China GDG 视频频道",
+        href: "http://i.youku.com/chinagdg"
+    }
+]
