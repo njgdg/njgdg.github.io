@@ -6,9 +6,10 @@ date:       2015-11-05
 author:     "南京GDG"
 header-img: ""
 tags:
-    - Android
+    - 南京谷歌开发者社区
     - Android Studio
     - 数据库
+    - 2015
 ---
 
 这次活动主要由南京GDG两位组织者高旭松和张强进行分享。

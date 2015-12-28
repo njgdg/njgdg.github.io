@@ -6,9 +6,10 @@ date:       2015-06-01
 author:     "南京GDG"
 header-img: ""
 tags:
-    - Android
-    - Android Studio
-    - 数据库
+    - Google I/O
+    - Google I/O Extened
+    - 南京谷歌开发者社区
+    - 2015
 ---
 
 【活动主题】 南京GDG 2015 Google I/O Extended直播

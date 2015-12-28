@@ -1,0 +1,73 @@
+---
+layout:     post
+title:      "2014 NanJing GDG DevFest"
+subtitle:   ""
+date:       2014-10-24
+author:     "南京GDG"
+header-img: ""
+tags:
+    - Devfest
+    - 南京谷歌开发者社区
+    - 2015
+---
+
+活动时间：2014年11月9日，09:00 – 18:30
+参会人数：300人
+活动地点：南京大学鼓楼校区科学技术馆
+DevFest 是南京GDG在2014年组织的最大型的一次年度活动，本次活动主要包括三大板块：嘉宾分享、闪电演讲、创业圆桌论坛，参会者包括学生、程序员、产品经理、创业者等各个领域的人士，本次大会的主题内容主要包括：Android, Angularjs, Web Development，设计，创业，融资等，由来自南京、上海各个领域的优秀牛人带来。
+
+9日早晨7:00整，志愿者和组织者就来到现场进行会前布置，大家搭好背景墙，布置好会场内的旗帜，准备好各种礼品，就等待着参会者的到来。
+
+<img src="http://www.chinagdg.com/data/attachment/forum/201411/25/1731528it8ioqmzzuqoct9.jpg" alt="input file" />
+<img src="http://www.chinagdg.com/data/attachment/forum/201411/25/173151mixvk8xf33kk3kft.jpg" alt="input file" />
+
+9日9:00整，会议准时开始，首先是我们的美女主持上台，介绍各位组织者及志愿者给大家认识，紧接着GDG组织者之一福玺同学介绍了一下我们南京GDG的成长史及Google GDG、DevFest等概念。
+
+终于，大会正式开始了，首先登场的是GDG组织者之一也是资深Android工程师大牛杜鹏霄来分享《Android App 响应优化》。讲解如何通过设计、编码等方式优化应用对用户的响应速度，提高用户体验。
+
+<img src="http://www.chinagdg.com/data/attachment/forum/201411/25/17322511y8jde8tsxbxte7.jpg" alt="input file" />
+
+总结一下他给我们的Android开发Tips：
+find Block call on UI Thread
+reduce block call
+Use hardware layer
+第二场是90后实用主义程序员丁鑫带来的《实用主义的业余程序员与开源（git）》，他的分享内容大概给在场的学生参会者带来了很大的营养，年轻的编程爱好者如何驱动自身学习与进步，开源项目如何为编程提供动力、并且获取别人的意见。成为实用主义的业余程序员，让你不仅仅为了交付功能，更要做出些什么。相信在场的同学听了他的分享一定会给自己的职业生涯减少一点弯路。
+
+<img src="http://www.chinagdg.com/data/attachment/forum/201411/25/173224kkpsvviss5y7iaaf.jpg" alt="input file" />
+
+丁鑫主要讲解了三大内容：
+
+git
+git workflow
+code review
+丁鑫完成之后，大家开启了上午的茶歇时间，果燃惦赞助的美味甜品让参会的小伙伴们吃的都津津有味的。
+
+<img src="http://www.chinagdg.com/data/attachment/forum/201411/25/173225umzim96wflg01900.jpg" alt="input file" />
+
+第三位嘉宾，来自中兴的架构师章小飞，他是在国内Angularjs界赫赫有名的大漠穷秋，他主要给我们介绍了Angularjs的特性以及一些移动应用开发的教程。大漠最后还给了我们一个很棒的忠告，keep an open heart! 保持一颗风骚的心！哈哈，拥抱开源，拥抱变化，提升自己！
+
+<img src="http://www.chinagdg.com/data/attachment/forum/201411/25/173153d50ictsiiqgccchv.jpg" alt="input file" />
+
+大漠的分享结束后我们进入了短暂的午间休息，下午13：30准时开启下午场！
+
+下午场的第一位演讲嘉宾是邵飞，他是微帮助创始人，spark界面设计公司的创始人，他本人在南京设计界是非常有名气的，这不，现场的互动小伙伴还有他的粉丝呢。他给我们带来的topic是《设计师的自我修养》。在互联网的浪潮里，竞争如此激烈的情况下，自己的产品想要站稳阵脚，不仅需要庞大的外界资源和技术团、财团，还需要用心的把产品设计的更有品味，而意识到问题的重要性不仅仅是观念上的重视，想要更好的落地，必须要对产品的视觉、交互、体验、品牌上进行人力资源的投入，设计师则必须多方面的提升自我修养，这样才能将好的产品真正的设计到用户心里。
+
+第二位演讲嘉宾，来自Teambition的前端大牛，严清。他介绍了《Web应用架构原理》，其内容包括Web应用组成，前端视图交互控制，组件化等。
+
+OK，到这里嘉宾分享的部分就结束了，接下来是在场的很多创业者们非常关注的环节，拥有百万用户在英语在线教育领域著名的扇贝网创始人王捷、机锋网创始人张超及Teambition布道师王钊杰同GDG组织者福玺同学联合带来的《如何迈出创业第一步》创业圆桌论坛活动，同大家分享他们在创业初期的血与泪，在面对风投时的机智以及如何建立优秀互联网服务的秘诀。
+
+<img src="http://www.chinagdg.com/data/attachment/forum/201411/25/173153tez1kuiziidvsh6c.jpg" alt="input file" />
+
+圆桌论坛之后，是此次大会的最后一个环节，闪电演讲，闪电演讲环节的内容同样不逊色于前面的专门分享环节，包括创业、搜索技术而且还有一个天使投资人也来到了现场跟大家分享天使投资的那些事，及天使投资看重的项目以及创投相关的关键点。
+
+<img src="http://www.chinagdg.com/data/attachment/forum/201411/25/173152gakawmpaff6rrzgu.jpg" alt="input file" />
+
+大概18:30分的时候大会接近了尾声，而且还发生了一个小插曲，本来原定计划18:00结束的大会由于参会人员提问太多，顺延了30分钟，因此场地费还补交了200块钱，南京大学的场地费真贵啊。
+
+<img src="http://www.chinagdg.com/data/attachment/forum/201411/25/173154ioi8hhlw4yob78ig.jpg" alt="input file" />
+
+总之，在南京这座城市里，像DevFest这样的干货满满的大会，小编还是希望多多举办一些的，因为比较起北上广，这种机会真的是太少了。
+
+最后来张合影吧。
+
+<img src="http://www.chinagdg.com/data/attachment/forum/201411/25/173155o10ge8h6b5e0cm6o.jpg" alt="input file" />
