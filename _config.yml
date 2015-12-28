@@ -1,22 +1,22 @@
 # Site settings
-title: Android Note
-SEOTitle: Android Note
+title: 南京谷歌开发者社区
+SEOTitle: 南京谷歌开发者社区
 header-img: img/home-bg.jpg
 email: nanjinggdg@gmail.com
-description: "Android note | long ~ ~ ~ ~ ~ description."
-keyword: "Android note, android, note"
-url: ""     #http://androidnote.njgdg.org         # your host, for absolute URL
+description: "南京谷歌开发者社区 | "
+keyword: "谷歌,谷歌开发者,开发者社区,安卓,南京, android, note, 南京GDG, GDG, 谷歌开发者社区, 南京谷歌开发者社区"
+url: ""     #http://njgdg.org         # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: true
-# weibo_username:     huxpro
-# zhihu_username:     huxpro
+# weibo_username:     njgdg
+# zhihu_username:     njgdg
 github_username:    njgdg
-#twitter_username:  huxpro
-# facebook_username:  huxpro
+#twitter_username:  njgdg
+# facebook_username:  njgdg
 
 
 
