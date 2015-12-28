@@ -1,0 +1,41 @@
+---
+layout:     post
+title:      "7.26 GDG After IO Sharing 活动通知"
+subtitle:   ""
+date:       2014-07-21
+author:     "南京GDG"
+header-img: ""
+tags:
+    - 南京谷歌开发者社区
+    - Google I/O
+    - 2014
+---
+
+火热的 Google I/O 大会刚刚结束一个月，各位程序猿，产品经理，设计师们是否还在对I/O大会的内容回味无穷哪？快来参加GDG I/O Sharing活动吧，本次活动由远赴美国现场参加Google I/O大会GDG组织者给大家带来大会现场的见闻分享。还有最新发布的Android Wear设备哦！
+
+时间:
+2014-7-27 14:00~17:00
+
+地点:
+南京市鼓楼天翼广场三楼书韵茶香 (地铁一号线鼓楼站 4B 出口)
+
+活动详情:
+0. GDG 简介
+1. Google I/O 大会见闻
+a. Keynote 简介
+b. IO 大会现场见闻
+c. Google ATAP 简介
+
+2. GDG Summit 见闻
+a. Google SolveForX 介绍
+b. 全球 GDG 朋友的一些故事
+c. Glass Design Sprint 介绍和感受
+
+3. 新鲜出炉的G Watch介绍，赏玩.另有神秘设备登场！
+
+4. FreeTalk about Google I/O Product
+
+分享嘉宾:
+杜鹏霄，Nanjing GDG组织者，在Android领域工作多年，资深Android开发大牛
+
+<a href="https://gdgdocs.org/forms/d/17jsrHCGxqLkBgYyC_49ezyfz2ZWoPsR5CJ9bnYENCms/viewform?c=0&w=1"> 狂点此处报名</a>

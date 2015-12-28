@@ -1,0 +1,50 @@
+---
+layout:     post
+title:      "一线之间—设计专题活动火热来袭"
+subtitle:   ""
+date:       2014-05-18
+author:     "南京GDG"
+header-img: ""
+tags:
+    - 南京谷歌开发者社区
+    - design
+    - 2014
+---
+
+小伙伴们，还在为如何设计一个优秀的应用和网站发愁吗，还在赞叹别人的优美设计吗
+快来参加由Nanjing GDG和南京创客空间合办的一线之间设计专题活动吧，这里有顶尖的
+UI设计师，工业设计师，Android Design的布道师，来这里寻找你的创作灵感，碰撞出思
+维的火花！
+ 
+模仿和创新，平庸和卓越就在一线之间！
+ 
+ 
+时间：2014年5月25日 14：00~17:00
+
+ 
+地点：南京艺术学院传媒105报告厅
+ 
+主题：
+ 
+1 如何利用工业设计提升企业竞争力
+2 Android Design
+3 交互设计与工业设计在创意产业链中的运用
+ 
+嘉宾：
+ 
+赵峻毅，JokerDesign 创始人，工业产品设计总监,在空间装饰设计，工业产品设计,UCD设计行业中有着丰富的经验.
+应涛，JokerDesign 创始人,高级UI设计师,专注于交互产品设计，UCD设计多年，设计经验非常丰富.
+ 
+陆威, 南京银睿设计创始人，设计总监，专注于工业设计，为企业提供工业设计和结构设计解决方案。
+ 
+徐梓桁：NovaDNG，国内最早接触并了解 Android Design 的一批人；快宜信息技术 Q-Supreme 首席设计师；锋客网主笔；
+参与知乎 Android 客户端、 Bong 手环 Android 端设计，目前主要致力于介绍国内外优秀 Android 应用, 采访开发者，和推广 Android Design 相关规范；
+联系人：褚福玺 18652066860
+ 
+主办方：Nanjing GDG, 南京创客空间，南京艺术学院
+设计合作方：Joker Design
+ 
+G+: https://plus.google.com/b/115699391295509082719/events/cta5m5o4n1to8sg7f6mfges6iso
+Note：本次的活动需要凭入场券入场，请小伙伴们点击以下的报名链接进行报名，并在活动开始前到达活动地点免费领取您的入场券，我们会根据报名的信息来发送。
+ 
+报名表：https://www.gdgdocs.org/forms/d/1FSp0T8U2NpI8MudN9PtgxBXNG7ooY4D3tL-qXj6jaRk/viewform?usp=send_form

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "【南京GDG】Android 数据库安全方案与Android Studio使用技巧 活动总结"
+title:      "Android 数据库安全方案与Android Studio使用技巧 活动总结"
 subtitle:   ""
 date:       2015-11-05
 author:     "南京GDG"

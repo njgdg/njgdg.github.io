@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "极客改变生活-极客公园南京站活动"
+subtitle:   ""
+date:       2014-06-22
+author:     "南京GDG"
+header-img: ""
+tags:
+    - 南京谷歌开发者社区
+    - geek
+    - 2014
+---
+
+NanjingGDG会将作为本次活动的合作方，
+
+极客公园将为GDG社区报名的同学预留座位，并会通过邮件，短信的方式提供更好的参会体验。
+ 
+想要参加活动的小伙伴们速度来报名咯！
+1 首先点击极客公园报名链接进行报名：http://www.geekpark.net/event/detail/206118#Plot2
+2 然后点击GDG登记表上登记：https://gdgdocs.org/forms/d/1ID6xNjJHinwu2DJRGUsEmch0IxqADwLP0Wy6q9mryuk/viewform?usp=send_form
+ 
+1,2两项都需要大家填写。
+第2项登记是收集这次活动的GDG成员信息，请大家一定要记得填写哦，不然就无法享受以上提到的待遇喔！

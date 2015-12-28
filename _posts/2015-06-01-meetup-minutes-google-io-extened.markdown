@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "【南京GDG】2015 Google IO Extended 活动总结"
+title:      "2015 Google IO Extended 活动总结"
 subtitle:   ""
 date:       2015-06-01
 author:     "南京GDG"
