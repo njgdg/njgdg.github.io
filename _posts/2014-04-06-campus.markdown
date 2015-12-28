@@ -1,0 +1,53 @@
+---
+layout:     post
+title:      "NanJingGDG走进校园-南京邮电大学-活动总结"
+subtitle:   ""
+date:       2014-04-06
+author:     "南京GDG"
+header-img: ""
+tags:
+    - 南京谷歌开发者社区
+    - 校园行
+    - 2014
+---
+
+时间:  2014-4-3 (周四)   18:30~20:30
+
+地点:  南京邮电大学仙林校区大学生活动中心多功能厅
+参加人数：96 人
+日程安排:
+
+1  Android 和 Web 技术游览
+2  Google的新玩具
+3  Summer Code of google
+4  科学上网，健康生活
+
+南京GDG走进校园活动正式拉开序幕，南京邮电大学是本年度校园活动的第一站！
+
+本次校园活动由南邮科协协办，特别感谢下刘泽宇，奚佳炜，樊超同学帮忙协调了场地，设备，以及前期的校园宣传活动！
+
+本次活动由南京GDG组织者褚福玺给大家带来一场Google技术概览的分享，演讲主要介绍了Android技术和Chrome Web Os平台，领略了Android WearPreview的风采，
+简单介绍了Summer Code项目，最后还和大家热烈讨论“科学上网”的话题。
+
+
+在本次活动中，由不少同学是在活动开始之后，陆续到场，活动的热烈程度也在活动的后半段达到了高潮。
+在活动的自由发言阶段，同学们表现出了对技术的极大热诚，并对本次的大锅饭分享表示并不满足：）！
+现场的五位MM同学中也有一位同学代表大家做了发言，受到了现场热烈欢迎。
+
+活动PPT和相关资料：
+https://drive.google.com/folderview?id=0BzJuN3r44fEoVnBYSGNpVmhCNkE&usp=sharing
+
+G+ 活动链接:
+https://plus.google.com/u/0/b/115699391295509082719/events/cc3cq9384e2fkfgkipijnlqjdg8
+
+活动照片：
+
+<img src="{{ site.url }}/img/posts/2014/04/20140403_183202.jpg" alt="input file" />
+<img src="{{ site.url }}/img/posts/2014/04/20140403_183230.jpg" alt="input file" />
+<img src="{{ site.url }}/img/posts/2014/04/20140403_183249.jpg" alt="input file" />
+<img src="{{ site.url }}/img/posts/2014/04/20140403_183630.jpg" alt="input file" />
+<img src="{{ site.url }}/img/posts/2014/04/20140403_183635.jpg" alt="input file" />
+<img src="{{ site.url }}/img/posts/2014/04/20140403_183655.jpg" alt="input file" />
+<img src="{{ site.url }}/img/posts/2014/04/20140403_201005.jpg" alt="input file" />
+<img src="{{ site.url }}/img/posts/2014/04/20140403_203739.jpg" alt="input file" />
+<img src="{{ site.url }}/img/posts/2014/04/20140403_203742.jpg" alt="input file" />
