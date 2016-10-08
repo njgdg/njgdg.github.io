@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: nanjinggdg@gmail.com
 description: "南京谷歌开发者社区 | "
 keyword: "谷歌,谷歌开发者,开发者社区,安卓,南京, android, note, 南京GDG, GDG, 谷歌开发者社区, 南京谷歌开发者社区"
-url: ""     #http://njgdg.org         # your host, for absolute URL
+url: ""     #http://gdgnanjing.com         # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -55,7 +55,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-59673995-1'            # Format: UA-xxxxxx-xx
-ga_domain: njgdg.org
+ga_domain: gdgnanjing.com
 
 
 
@@ -76,7 +76,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "南京GDG官网",
-        href: "http://www.njgdg.org"
+        href: "http://gdgnanjing.com"
     },{
         title: "南京GDG视频中心",
         href: "http://v.qq.com/vplus/d5750056b4bf0b516f7512c83666adff"
