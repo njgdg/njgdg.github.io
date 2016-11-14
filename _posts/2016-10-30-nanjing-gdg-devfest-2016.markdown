@@ -4,7 +4,7 @@ title:      "南京 GDG DevFest 2016活动总结"
 subtitle:   ""
 date:       2016-10-30
 author:     "南京GDG"
-header-img: ""
+header-img: "http://www.chinagdg.com/data/attachment/forum/201611/13/194940dyjrrbrr3rpf9tp5.jpg"
 tags:
     - 南京谷歌开发者社区
     - DevFest
