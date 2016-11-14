@@ -2,7 +2,7 @@
 layout:     post
 title:      "南京 GDG DevFest 2016活动总结"
 subtitle:   ""
-date:       2014-10-30
+date:       2016-10-30
 author:     "南京GDG"
 header-img: ""
 tags:
