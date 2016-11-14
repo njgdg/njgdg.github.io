@@ -24,6 +24,7 @@ tags:
 *   【活动内容】
 
 主题：
+
 1.   Android Archtecture Thinking - 褚福玺
 2.   AB测试：数据驱动的产品优化 - 窦孝晨
 3.   Google广告变现产品介绍 - 张瑞捷
