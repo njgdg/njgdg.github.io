@@ -15,22 +15,22 @@ tags:
     - 2016
 ---
 
-【活动主题】 南京GDG DevFest 2016
-【活动时间】2016年10月30日10:00-18:00
-【活动地点】雨花区楚翘城会议中心二楼
-【活动人数】513人
-【活动组织者】褚福玺，陈琛，张强，陈强龙，杜鹏霄，张杨
-【Google+ Event Page】https://plus.google.com/events/clvfd00hb5l9bfteja5oce5osg8
-【活动内容】
+*   【活动主题】 南京GDG DevFest 2016
+*   【活动时间】2016年10月30日10:00-18:00
+*   【活动地点】雨花区楚翘城会议中心二楼
+*   【活动人数】513人
+*   【活动组织者】褚福玺，陈琛，张强，陈强龙，杜鹏霄，张杨
+*   【Google+ Event Page】https://plus.google.com/events/clvfd00hb5l9bfteja5oce5osg8
+*   【活动内容】
 
 主题：
-- Android Archtecture Thinking - 褚福玺
-- AB测试：数据驱动的产品优化 - 窦孝晨
-- Google广告变现产品介绍 - 张瑞捷
-- Angular2 in Action - 章小飞
-- 在业务驱动的公司推动技术变革 - 禹立彬
-- VR产业发展与变革 - 徐家兆
-- APK压缩最佳实践 - 汪亮亮
+1.   Android Archtecture Thinking - 褚福玺
+2.   AB测试：数据驱动的产品优化 - 窦孝晨
+3.   Google广告变现产品介绍 - 张瑞捷
+4.   Angular2 in Action - 章小飞
+5.   在业务驱动的公司推动技术变革 - 禹立彬
+6.   VR产业发展与变革 - 徐家兆
+7.   APK压缩最佳实践 - 汪亮亮
 
 一年一度的GDG DevFest 2016 Nanjing 活动在南京楚翘城会议中心圆满落幕，此次活动，不管是报名数还是实际参会人数都比往年要高，整场活动井然有序，平稳进行，是一次很好的实践。
 
