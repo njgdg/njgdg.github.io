@@ -18,7 +18,7 @@ Google I/O大会从来都是非常火爆，一票难求。为了让不能亲临�
 
 今年的Google I/O除了Android O令人期待以外，从日程表上的分类我们也能看到此次I/O 主题共会有Accessibility、Ads、Android 、Assistant、Design、Firebase、IoT、机器学习、Mobile Web、Play、Search 与VR 等主题。
 
-Google I/O官网：https://events.google.com/io/
+Google I/O官网：[https://events.google.com/io/](https://events.google.com/io/)
 
 *   活动地点：待定（后续将会更新，并以微信公众号、邮件等途径通知到您）
 *   时间：2017年5月17日 23:00 ~ 2017年5月18日 02:00
@@ -27,4 +27,4 @@ Google I/O官网：https://events.google.com/io/
 
 欢迎大家报名参加！
 
-报名地址： https://www.gdgdocs.org/forms/d/e/1FAIpQLSdNEU4MPH18D1JnPwOuHPAYdv7Za4CfevJaFAtFw6DhkNOgcw/viewform
+报名地址： [https://www.gdgdocs.org/forms/d/e/1FAIpQLSdNEU4MPH18D1JnPwOuHPAYdv7Za4CfevJaFAtFw6DhkNOgcw/viewform](https://www.gdgdocs.org/forms/d/e/1FAIpQLSdNEU4MPH18D1JnPwOuHPAYdv7Za4CfevJaFAtFw6DhkNOgcw/viewform)
