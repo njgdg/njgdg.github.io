@@ -23,7 +23,7 @@ Google I/O官网：[https://events.google.com/io/](https://events.google.com/io/
 *   活动地点：待定（后续将会更新，并以微信公众号、邮件等途径通知到您）
 *   时间：2017年5月17日 23:00 ~ 2017年5月18日 02:00
 *   联系电话：18652005520
-*   主办方：南京GDG（http://gdgnanjing.com/）
+*   主办方：南京GDG
 
 欢迎大家报名参加！
 
