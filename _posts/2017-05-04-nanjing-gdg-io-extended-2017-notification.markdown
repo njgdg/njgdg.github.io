@@ -22,10 +22,12 @@ Google I/O官网：[https://events.google.com/io/](https://events.google.com/io/
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/TEjEBDCtr7Zms0gvAIzXNHAT273y3fk3Os1oxKPWRRWOS9yEQOlptI3u8daVC8ZrL9Pia7B6iczXB2iaLItfaPBhA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
 *   活动地点：南京市雨花台区宁双路28号汇智大厦B区819室
-*   时间：2017年5月17日 23:00 ~ 2017年5月18日 02:00
+*   时间：2017年5月17日 23:00 ~ 2017年5月18日 02:30
 *   联系电话：18652005520
 *   主办方：南京GDG
 
 欢迎大家报名参加！
 
 报名地址： [https://www.gdgdocs.org/forms/d/e/1FAIpQLSdNEU4MPH18D1JnPwOuHPAYdv7Za4CfevJaFAtFw6DhkNOgcw/viewform](https://www.gdgdocs.org/forms/d/e/1FAIpQLSdNEU4MPH18D1JnPwOuHPAYdv7Za4CfevJaFAtFw6DhkNOgcw/viewform)
+
+[Meetup活动链接](https://www.meetup.com/Google-I-O-Extended-2017-Nanjing/)
