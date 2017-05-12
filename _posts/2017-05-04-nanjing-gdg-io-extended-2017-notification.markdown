@@ -29,3 +29,5 @@ Google I/O官网：[https://events.google.com/io/](https://events.google.com/io/
 欢迎大家报名参加！
 
 报名地址： [https://www.gdgdocs.org/forms/d/e/1FAIpQLSdNEU4MPH18D1JnPwOuHPAYdv7Za4CfevJaFAtFw6DhkNOgcw/viewform](https://www.gdgdocs.org/forms/d/e/1FAIpQLSdNEU4MPH18D1JnPwOuHPAYdv7Za4CfevJaFAtFw6DhkNOgcw/viewform)
+
+[Meetup链接](https://www.meetup.com/Nanjing-GDG/events/239926302/)
