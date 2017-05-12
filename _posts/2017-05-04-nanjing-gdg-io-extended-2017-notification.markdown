@@ -20,7 +20,8 @@ Google I/O大会从来都是非常火爆，一票难求。为了让不能亲临�
 
 Google I/O官网：[https://events.google.com/io/](https://events.google.com/io/)
 
-*   活动地点：南京市雨花台区宁双路28号汇智大厦B区819室
+![](http://mmbiz.qpic.cn/mmbiz_png/TEjEBDCtr7Zms0gvAIzXNHAT273y3fk3Os1oxKPWRRWOS9yEQOlptI3u8daVC8ZrL9Pia7B6iczXB2iaLItfaPBhA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+*   活动地点：南京市雨花台区宁双路28号汇智大厦B区819室
 *   时间：2017年5月17日 23:00 ~ 2017年5月18日 02:00
 *   联系电话：18652005520
 *   主办方：南京GDG
