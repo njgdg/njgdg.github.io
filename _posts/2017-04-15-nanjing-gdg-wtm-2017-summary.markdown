@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "南京GDG Woman Techmakers 2017"
+title:      "南京GDG Woman Techmakers 2017 活动总结"
 subtitle:   ""
 date:       2017-04-15
 author:     "南京GDG"
