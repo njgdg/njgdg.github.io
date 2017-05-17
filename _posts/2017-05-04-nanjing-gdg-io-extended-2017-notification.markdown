@@ -12,7 +12,7 @@ tags:
     - 2017
 ---
 ![](https://ofl53fv4k.qnssl.com/vemAqLGtrz--EgzsA4dwKbnGDJX593fKhhYt3OiAQyrQewHAiUSm7Y43gd1P8RxARUao8le5hQ=w1124)
-2017年 Google I/O 大会将于5月17日-5月19日在加利福尼亚州海滨露天露天剧场举行。
+2017年 Google I/O 大会将于5月17日-5月19日在加利福尼亚州海滨圆型露天剧场举行。
 
 Google I/O大会从来都是非常火爆，一票难求。为了让不能亲临现场的小伙伴体验Google I/O大会，南京GDG将会在北京时间5月17日晚上11点举办Google I/O Extended 直播活动，现场我们会提供舒适的直播环境，免费的零食饮料，专为IO Extended准备的精美T恤，还有一些主题小礼物（徽章、贴纸、本子等），让大家充分享受Google I/O大会这一年度开发者盛宴。
 
